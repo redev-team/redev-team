@@ -8,7 +8,4 @@ It consists of the reDEV cybersecurity team. Here, projects made with CTF Writeu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=redev-team&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redev-team&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=redev-team&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
